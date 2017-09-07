@@ -1,0 +1,8 @@
+.settings
+build
+*.classpath
+.externalToolBuilders
+*.gitignore
+*.project
+WebContent
+config
