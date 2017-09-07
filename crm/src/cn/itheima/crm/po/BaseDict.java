@@ -17,6 +17,8 @@ package cn.itheima.crm.po;
  */
 public class BaseDict {
 	
+	//时代峻峰涉及到福建省地方集
+	
 	private String dict_id; // varchar(32) NOT NULL COMMENT '数据字典id(主键)',
 	private String dict_type_code; // varchar(10) NOT NULL COMMENT '数据字典类别代码',
 	private String dict_type_name; // varchar(64) NOT NULL COMMENT '数据字典类别名称',
